@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195874&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232919EB&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 <h1> Hello, I'm Abdoul Oudouss Diakite <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
