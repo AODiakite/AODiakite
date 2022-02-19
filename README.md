@@ -3,8 +3,7 @@
 <p align='center'>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AbdoulOudouss?style=social)
-
+[![AODiakite's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AODiakite&theme=tokyonight)](https://git.io/praveenscience)
 
 
 
@@ -24,6 +23,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AODiakite&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AODiakite&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
-[![AODiakite's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AODiakite&theme=tokyonight)](https://git.io/praveenscience)
+
 
 
